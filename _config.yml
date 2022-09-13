@@ -23,7 +23,7 @@ timezone: Europe/Istanbul
 
 title: Lumenified                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: my mere humble blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
