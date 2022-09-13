@@ -16,7 +16,7 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: 
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -40,12 +40,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Lumenified
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/Lumenified      # change to your twitter homepage
+    - https://github.com/Lumenified       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://lh3.googleusercontent.com/fife/AAbDypD-PosSYUgHl6P6BHwi2HSYL_cZitTAj2slyLRqJn1DLJ8O2toA0X1rPx0b1sflf5nuVp1sc1faVHb7cCDeBnWUwig2xO5o4WWn4b6J3sNq3Tu6Moc3_IS1U2aas4OZQuGATDqWxiiF4UrO7aK46S_vYwIwgd4bIeK1O-O4OQpu6ndeBwpzBF2y1mfNHPO30Sm2l76UH3yBmqaTFminik5ptrvhnDQHzNpAVvCvIiR-tjusCRh37u4YQSL4EEXG1kX-M3fxoH-rKLwUJ4bqkw1puO71eZBdurb4sk0-D4chje3YZjcvECw3UAxwrLgtK9htJFl2UKnGUSQTlxow7O2L46eOY58FR-x2o-TVOBmE3Brpx8LrwLHzpwjlWONdt9NNU4lqbHaTsRYVCimKVYhy2O2nIDvUb8v_sZyjAeD3mxyZyRUtdXWhalfAMwU48fFwRQ1EZSQ6-tYtwxkDUJmUYXtBAaG-cpfS9j1zw4ZYva-teVUNtrKfFrKQOL8iA4hmMGyhABax9E0xMHcJOUFj0FEpY21zhfCWotAVG_dmNSwswY2Sw5thxhmGY7kCHndx1d-4TVLTXmmWKWCv7LHt6oEiwjZb-nGtLo3hVTBK2el6aWIjG520_Z2GRnclwekJstTH4YsanowUFR-p0pVOfOgwPvSBf5OpF89kSPVlbVV55M0nTS3jptjRebtasuFG7kzfqSOFQcFYmCPIpbVvmjpaQ0rK-qCc-pC2XXp3yk1dGW3V1df-e7AfljeRmt3ljCrX3Y5ZLzEus9Av-Rs9o3-TozKUJwBeOnHM7L6h_bktOZjekAT70yqgEmfnKQPlEKHCa-_6hn_GzP3n0o7MJeErIzQe3WJA8LNZ39ly5Xq7u4Yj0-H6Bb85YWH7MonNXBhuGG3FqPRkXwIh0yRURmnri-tg6gziOOTwtDZTDqiyexIkqTTadu3sbLV0vMCxvqXWq37YmNT029h7i0vS-tHQF2mxcwyW64dYCDH2VvUlwhzGjQCSxv5VdT9hckvm4UoAiRphWLuqV2fG7V4TNabHJOq8wMRzfuNsAdlXKOmCW2btYnklpg4htoVcHm1EMNDzOO_7d4AdOUsPMsEPZMjzswPjzrjaUDsyLlrP3EDEJnCVJsTnJb8iDPjIzVaY9ngsZNcBOo39HCgrJVc_KBBDYp4CoMtK-JXuFYFxjYH6UtXHhw7T-l39hbfDIrSplqDxBQMZ3r7op--KTsPQNGbHdbWkIA32elAEjIWB9r7ubcmIyq36Zf178v74I8ru39Mh4rbvHaWR5-bxwiOOzgHgEawKoOdUC9GXKQ2b081NiTVvYA2V24eyD8GWf_wdhLmXPS0_iekeqkFR0xyxyYuNLnvfn2BGDVO5iz6qfd9DPZlDalKOTj_fqRBlORz9u3yRZ-4jF47BfcdR2PE8JIt7eXCrkizy5DFX-isgeKybnFShuS1C9MH2FZSFbF9uUWdtm0slU7qiAu1173BpKw1FvrmPUECwJTQjO7hhQBmi7ntijqTqdpEK_w=w1364-h665
 
 # boolean type, the global switch for ToC in posts.
 toc: true
